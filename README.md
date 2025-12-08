@@ -1,5 +1,13 @@
 # my-portfolio
 My personal portfolio website using GitHub Pages.
+<p align="center">
+  <img src="banner.jpg" width="100%" />
+</p>
+
+<p align="center">
+  <img src="profile.jpg" width="150" style="border-radius: 50%;" />
+</p>
+
 # Amiya Tisdol
 
 ## About Me
