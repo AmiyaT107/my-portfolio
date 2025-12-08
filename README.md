@@ -1,7 +1,7 @@
 # my-portfolio
 My personal portfolio website using GitHub Pages.
 <p align="center">
-  <img src="banner.jpg" width="100%" />
+  <img src="Screenshot 2025-12-07 203110.png" width="100%" />
 </p>
 
 <p align="center">
