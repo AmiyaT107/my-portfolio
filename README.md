@@ -5,7 +5,7 @@ My personal portfolio website using GitHub Pages.
 </p>
 
 <p align="center">
-  <img src="profile.jpg" width="150" style="border-radius: 50%;" />
+  <img src="24E353A1-EB39-479F-B092-92FA8CB0ABFF.jpeg" width="150" style="border-radius: 50%;" />
 </p>
 
 # Amiya Tisdol
