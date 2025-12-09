@@ -112,6 +112,7 @@ A Python program using loops and conditionals to evaluate multiples of numbers u
 
 ![](Screenshot 2025-12-08 105159.png)
  Initial Project Idea
+![](Screenshot 2025-12-08 105220.png
 
 I created a Reverse FizzBuzz program to practice conditional logic, loops, user input, and error handling in Python. The problem I set out to solve was making a simple program that repeatedly evaluates whether a number is "Fizz," "Buzz," "FizzBuzz," or neither. This allowed me to apply core programming concepts we learned in class.
 
