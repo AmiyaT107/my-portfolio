@@ -25,7 +25,8 @@ Expected Graduation: 2029
 ## Projects
 
 ### ⭐ Project 1: Weekly Outlook Calendar System
-![Calendar Screenshot](<img width="2360" height="1640" alt="Assessment1_CS106 03_Making Sense of Data_SH102" src="https://github.com/user-attachments/assets/d603eec4-77f9-4422-aef7-f547d789f5a0" />).
+![Calendar Screenshot](Screenshot 2025-12-08 191737.png).
+
 A full color-coded Microsoft Outlook school-week calendar with categorized courses and custom styling.
 
 Initial Project Idea
@@ -70,6 +71,7 @@ This project organized my weekly class schedule using Outlook Calendar with repe
 
 ### ⭐ Project 2: Excel Inventory Manager & Budget Tracker
 [Excel Inventory Manager](https://1drv.ms/x/c/3f7e62bf4d7a61d2/EYzK65sTEJhIvFskx6e8mWwBMc9PpIYcv-Li7aHAuFwGvg?e=WE36Mv)
+
 Inventory system and financial tracker using formulas, conditional formatting, data tables, and multiple worksheets.
 
 
@@ -108,6 +110,7 @@ A multi-worksheet Excel workbook analyzing thrift inventory using formulas, cond
 
 ### ⭐ Project 3: Reverse FizzBuzz Program (Python)
 [Reverse Fizz Buzz Program](https://onlinegdb.com/rgwHqkDr21)
+
 A Python program using loops and conditionals to evaluate multiples of numbers until the user exits the program.
 
 ![](Screenshot 2025-12-08 105159.png)
