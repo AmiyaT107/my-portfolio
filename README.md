@@ -72,6 +72,7 @@ This project organized my weekly class schedule using Outlook Calendar with repe
 [Excel Inventory Manager](https://1drv.ms/x/c/3f7e62bf4d7a61d2/EYzK65sTEJhIvFskx6e8mWwBMc9PpIYcv-Li7aHAuFwGvg?e=WE36Mv)
 Inventory system and financial tracker using formulas, conditional formatting, data tables, and multiple worksheets.
 
+
  Initial Project Idea
 
 I created an Excel-based Inventory Manager for my thrift clothing business idea. My goal was to organize items, analyze profit margins, and understand how pricing affected my potential side-hustle revenue. This problem mattered because managing inventory manually can lead to errors and unclear profit expectations.
@@ -109,6 +110,7 @@ A multi-worksheet Excel workbook analyzing thrift inventory using formulas, cond
 [Reverse Fizz Buzz Program](https://onlinegdb.com/rgwHqkDr21)
 A Python program using loops and conditionals to evaluate multiples of numbers until the user exits the program.
 
+![](Screenshot 2025-12-08 105159.png)
  Initial Project Idea
 
 I created a Reverse FizzBuzz program to practice conditional logic, loops, user input, and error handling in Python. The problem I set out to solve was making a simple program that repeatedly evaluates whether a number is "Fizz," "Buzz," "FizzBuzz," or neither. This allowed me to apply core programming concepts we learned in class.
